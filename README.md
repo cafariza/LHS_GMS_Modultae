@@ -1,2 +1,2 @@
-# LHS_GMS_Modultae
+# LHS_GMS_Modulte
 Latin Hypercube Sampling applied to ground motion selection
